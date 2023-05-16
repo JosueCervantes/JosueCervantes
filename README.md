@@ -1,5 +1,5 @@
 <div class="titulo">
-  <h1>Josué Cervantes</h1>
+  <h1 align="center" dir=auto>Josué Cervantes</h1>
 </div>
 <div>
   <h2>Développeur Web</h2>
@@ -16,7 +16,7 @@
 <li> ⚡ J'adore les langues, je parle l'espagnol comme langue maternelle, en plus l'anglais et le français </li> 
 </ul>
 
-  <h3> Skills </h3>  
+  <h3> Skills</h3>  
 <!-- Icono html -->
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 <!-- Icono css -->
