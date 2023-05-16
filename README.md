@@ -1,5 +1,5 @@
 <div class="titulo">
-  <h1 align="center" dir=auto>Josué Cervantes</h1>
+  <h1 align="center" dir=auto> Salut 👋 C'est Josué</h1>
 </div>
 <div>
   <h2>Développeur Web</h2>
