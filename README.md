@@ -8,13 +8,13 @@
   <p>Estudiante de la carrera Ingeniería en Tecnologías de la Información cursando el 8vo cuatrimestre.
   Mis enfoques y fortalezas se sitúan en el desarrollo de software en áreas web, móvil, base de datos, metodologías y dirección de proyectos.</p>
 <ul>
-<li> 🇲🇽 J'habite au Mexique à la ville de Chihuahua </li>
-<li> 🚀 J'ai fait quelques projets sur Unity et Maya Autodesk </li>
-<li> 🧠 En apprenant le développment mobile et IoT... </li> 
-<li> 🤝 Je suis ouvert à nouveaux projets en equipe </li> 
-<li> 👨‍💻 Tous mes projets sur https://josue-cervantes-projects.com </li> 
-<li> 📫 Mon contact josuecervantesesparza123@gmail.com </li> 
-<li> ⚡ J'adore les langues, je parle l'espagnol comme langue maternelle, en plus l'anglais et le français </li> 
+<li> 🇲🇽 Vivo en Chihuahua, Chihuahua, México </li>
+<li> 🚀 He hecho proyectos en 3D como videojugos, RA y RV con Unity y Maya Autodesk </li>
+<li> 🧠 En curso de aprendizaje móvil y arquitecturas de software... </li> 
+<li> 🤝 Me encuentro abierto a nuevos proyectos en equipo </li> 
+<li> 👨‍💻 Todos mis proyectos disponibles en  </li> 
+<li> 📫 Contáctame por email josuecervantesesparza123@gmail.com </li> 
+<li> ⚡ Adoro los idiomas, además del español, hablo inglés a nivel B1 y francés a nivel B2 certificado </li> 
 </ul>
 
   <h3> Skills</h3>  
