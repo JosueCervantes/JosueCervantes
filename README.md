@@ -12,7 +12,7 @@
 <li> 🚀 He hecho proyectos en 3D como videojuegos, RA y RV con Unity y Maya Autodesk </li>
 <li> 🧠 En curso de aprendizaje móvil y arquitecturas de software... </li> 
 <li> 🤝 Me encuentro abierto a nuevos proyectos en equipo </li> 
-<li> 👨‍💻 Todos mis proyectos disponibles en  </li> 
+<li> 👨‍💻 Todos mis proyectos disponibles en <a href="https://josuecervantes.github.io"> Josue_Cervantes.io </a> </li> 
 <li> 📫 Contáctame por email josuecervantesesparza123@gmail.com </li> 
 <li> ⚡ Adoro los idiomas, además del español, hablo inglés a nivel B1 y francés a nivel B2 certificado </li> 
 </ul>
