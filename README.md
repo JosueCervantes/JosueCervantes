@@ -28,6 +28,8 @@
 <a href="https://angular.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/9eecc42439347332f256a326363924551042f5b96235f972982512199476611a/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%;"> </a>
 <!-- Icono Vue -->
 <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> 
+<!-- Icono React -->
+<a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original-wordmark.svg" alt="reactjs" width="40" height="40" style="max-width: 100%;"> </a> 
  <!-- Icono Django -->
 <a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/537f66454b766b0d56da91225206ebf6d28ecff24d84668d52cf9430e02460fd/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667" alt="django" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/django.svg" style="max-width: 100%;"> </a>
 <!-- Icono Nodejs -->
