@@ -9,7 +9,7 @@
   Mis enfoques y fortalezas se sitúan en el desarrollo de software en áreas web, móvil, base de datos, metodologías y dirección de proyectos.</p>
 <ul>
 <li> 🇲🇽 Vivo en Chihuahua, Chihuahua, México </li>
-<li> 🚀 He hecho proyectos en 3D como videojugos, RA y RV con Unity y Maya Autodesk </li>
+<li> 🚀 He hecho proyectos en 3D como videojuegos, RA y RV con Unity y Maya Autodesk </li>
 <li> 🧠 En curso de aprendizaje móvil y arquitecturas de software... </li> 
 <li> 🤝 Me encuentro abierto a nuevos proyectos en equipo </li> 
 <li> 👨‍💻 Todos mis proyectos disponibles en  </li> 
