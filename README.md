@@ -1,11 +1,12 @@
 <div class="titulo">
-  <h1 align="center" dir=auto> Salut 👋 C'est Josué</h1>
+  <h1 align="center" dir=auto> Hi 👋 It's Josué</h1>
 </div>
 <div>
-  <h2>Développeur Web</h2>
+  <h2>Desarrollador de Software</h2>
 </div>
 <div>
-  <p>Ayant pour objectif le developpment Fullstack et AMIO, aujourd'hui je travaille avec les environnments Front et Backend. Mes principaux forces sont situés dans les tecnologies de JavaScript, Python et PHP.</p>
+  <p>Estudiante de la carrera Ingeniería en Tecnologías de la Información cursando el 8vo cuatrimestre.
+  Mis enfoques y fortalezas se sitúan en el desarrollo de software en áreas web, móvil, base de datos, metodologías y dirección de proyectos.</p>
 <ul>
 <li> 🇲🇽 J'habite au Mexique à la ville de Chihuahua </li>
 <li> 🚀 J'ai fait quelques projets sur Unity et Maya Autodesk </li>
